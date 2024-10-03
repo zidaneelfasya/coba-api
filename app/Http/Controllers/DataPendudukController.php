@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\DataPenduduk;
 use Illuminate\Http\Request;
 
 class DataPendudukController extends Controller
